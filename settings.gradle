@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='demo0201_dogs_vs_cats'
